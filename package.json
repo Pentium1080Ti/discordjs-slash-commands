@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node src/initCommands.js && node src/index.js"
+    },
+    "dependencies": {
+        "discord.js": "13.6.0",
+        "@discordjs/builders": "0.13.0",
+        "@discordjs/rest": "0.4.1",
+        "discord-api-types": "0.31.2"
+    }
+}
